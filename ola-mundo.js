@@ -1,0 +1,1 @@
+console.log("Olá, mundo! Este é um exemplo de JavaScript rodando no Node.js.");
