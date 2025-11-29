@@ -48,4 +48,4 @@ switch (operador) {
     case "/":
       console.log("Operação de divisão selecionada.");
         break;
-}  
+}
